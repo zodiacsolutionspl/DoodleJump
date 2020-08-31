@@ -1,0 +1,13 @@
+{
+"companyName": "Giloy",
+"productName": "Doodle Jump",
+"dataUrl": "DoodleJump.data.unityweb",
+"wasmCodeUrl": "DoodleJump.wasm.code.unityweb",
+"wasmFrameworkUrl": "DoodleJump.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "DoodleJump.jpg",
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF"
+}
